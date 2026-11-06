@@ -16,4 +16,8 @@ public class TextCharacter {
     public CharacterStyle getStyle() {
         return style;
     }
+
+    public void setStyle(CharacterStyle style) {
+        this.style = style;
+    }
 }
